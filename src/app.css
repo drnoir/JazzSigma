@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+AT:ital,wght@0,100..400;1,100..400&display=swap');
+
+body{
+    background-color: black;
+}
+.App{
+    background-color: lightcyan;
+    font-family: "Playwrite AT", cursive;
+    border-radius: 15px;
+    padding:1em;
+}
+
+h1 {
+    font-family: "Playwrite AT", cursive;
+        margin-bottom: 20px;
+}
+
+.sigma-container {
+    width: 100%;
+    height: 750px; 
+  }
